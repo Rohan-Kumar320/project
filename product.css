@@ -1,0 +1,33 @@
+#veg{
+    text-align: center;
+    padding: 50px;
+}
+#nonveg{
+    text-align: center;
+    padding: 50px;
+}
+#mixfood{
+    text-align: center;
+    padding: 50px;
+}
+#sweetdish{
+    text-align: center;
+    padding: 50px;
+}
+#foodforpatient{
+    text-align: center;
+    padding: 50px;
+}
+#health{
+    text-align: center;
+    padding: 50px;
+}
+
+#imagefood{
+    height: 170px;
+ transition: 0.5s;
+}
+#imagefood:hover{
+    transform: scale(1.1);
+}
+
